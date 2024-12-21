@@ -1,0 +1,300 @@
+{ "frames": {
+   "Bansheep-Traffi 0.ase": {
+    "frame": { "x": 1, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 1.ase": {
+    "frame": { "x": 84, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 2.ase": {
+    "frame": { "x": 167, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 3.ase": {
+    "frame": { "x": 250, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 4.ase": {
+    "frame": { "x": 333, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 5.ase": {
+    "frame": { "x": 1, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 6.ase": {
+    "frame": { "x": 1, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 7.ase": {
+    "frame": { "x": 84, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 8.ase": {
+    "frame": { "x": 167, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 9.ase": {
+    "frame": { "x": 167, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 10.ase": {
+    "frame": { "x": 333, "y": 1, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 11.ase": {
+    "frame": { "x": 1, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 12.ase": {
+    "frame": { "x": 250, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 13.ase": {
+    "frame": { "x": 333, "y": 87, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 14.ase": {
+    "frame": { "x": 1, "y": 173, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 15.ase": {
+    "frame": { "x": 84, "y": 173, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 16.ase": {
+    "frame": { "x": 167, "y": 173, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 17.ase": {
+    "frame": { "x": 250, "y": 173, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 18.ase": {
+    "frame": { "x": 333, "y": 173, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 19.ase": {
+    "frame": { "x": 1, "y": 259, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 20.ase": {
+    "frame": { "x": 84, "y": 259, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 21.ase": {
+    "frame": { "x": 167, "y": 259, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 22.ase": {
+    "frame": { "x": 250, "y": 259, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 23.ase": {
+    "frame": { "x": 333, "y": 259, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 24.ase": {
+    "frame": { "x": 1, "y": 345, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 25.ase": {
+    "frame": { "x": 84, "y": 345, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 26.ase": {
+    "frame": { "x": 167, "y": 345, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 27.ase": {
+    "frame": { "x": 250, "y": 345, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 28.ase": {
+    "frame": { "x": 333, "y": 345, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 29.ase": {
+    "frame": { "x": 1, "y": 431, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 30.ase": {
+    "frame": { "x": 84, "y": 431, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 31.ase": {
+    "frame": { "x": 167, "y": 431, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 32.ase": {
+    "frame": { "x": 250, "y": 431, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 33.ase": {
+    "frame": { "x": 333, "y": 431, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   },
+   "Bansheep-Traffi 34.ase": {
+    "frame": { "x": 1, "y": 517, "w": 82, "h": 85 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 82, "h": 85 },
+    "sourceSize": { "w": 82, "h": 85 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-rc2-x64",
+  "image": "Bancrab-DeadlyEssence01.png",
+  "format": "RGBA8888",
+  "size": { "w": 416, "h": 603 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "alt_idle", "from": 6, "to": 11, "direction": "forward", "color": "#000000ff" },
+   { "name": "windup", "from": 12, "to": 19, "direction": "forward", "color": "#000000ff" },
+   { "name": "attack", "from": 20, "to": 25, "direction": "forward", "color": "#000000ff" },
+   { "name": "hurt", "from": 26, "to": 28, "direction": "forward", "color": "#000000ff" },
+   { "name": "sleep_idle", "from": 29, "to": 34, "direction": "forward", "color": "#000000ff" },
+   { "name": "sleep_alt_idle", "from": 29, "to": 34, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

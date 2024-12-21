@@ -1,0 +1,62 @@
+{ "frames": {
+   "Candsheep-BaraObstagoon #idle 0.ase": {
+    "frame": { "x": 1, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   },
+   "Candsheep-BaraObstagoon #idle 1.ase": {
+    "frame": { "x": 81, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   },
+   "Candsheep-BaraObstagoon #idle 2.ase": {
+    "frame": { "x": 161, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   },
+   "Candsheep-BaraObstagoon #idle 3.ase": {
+    "frame": { "x": 241, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   },
+   "Candsheep-BaraObstagoon #idle 4.ase": {
+    "frame": { "x": 321, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   },
+   "Candsheep-BaraObstagoon #idle 5.ase": {
+    "frame": { "x": 401, "y": 1, "w": 79, "h": 59 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 59 },
+    "sourceSize": { "w": 79, "h": 59 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "Candsheep-BaraObstagoon.png",
+  "format": "RGBA8888",
+  "size": { "w": 481, "h": 61 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 5, "direction": "forward" }
+  ]
+ }
+}
